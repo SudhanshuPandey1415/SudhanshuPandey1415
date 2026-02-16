@@ -21,13 +21,16 @@
 - Java
 - JavaScript
 - C
+- C++
 
 ### 🌐 Web Development
 - HTML
 - CSS
+- Tailwind CSS
 - React.js
 - Node.js
 - Express.js
+- Next.js
 
 ### 🗄️ Database
 - MySQL
