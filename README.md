@@ -31,6 +31,7 @@
 - Node.js
 - Express.js
 - Next.js
+- Postman
 
 ### 🗄️ Database
 - MySQL
@@ -69,6 +70,7 @@
 - AI-based Farmer Advisory System 🌾
 - Wellbe(Health based Web project)
 - Web Development Projects
+- Python Projects
 - Machine Learning Projects (Coming Soon)
 
 ---
@@ -76,6 +78,8 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SudhanshuPandey1415
+- Gmail:sudhanshupandey141519@gmail.com
+- Instagram: __sudhanshupandey
 
 ---
 
