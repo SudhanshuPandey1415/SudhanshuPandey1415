@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudhanshuPandey1415&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuPandey1415&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,6 +67,7 @@
 ## 🚀 Projects
 
 - AI-based Farmer Advisory System 🌾
+- Wellbe(Health based Web project)
 - Web Development Projects
 - Machine Learning Projects (Coming Soon)
 
@@ -74,8 +75,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn link here
+- GitHub: https://github.com/SudhanshuPandey1415
 
 ---
 
