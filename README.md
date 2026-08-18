@@ -2,16 +2,24 @@
 
 # 👋 Hey, I'm Sudhanshu Pandey
 
-### AI/ML Developer • Full-Stack Developer • Problem Solver
+### 🤖 AI/ML Developer • 🌐 Full-Stack Developer • 💡 Problem Solver
 
 <p>
-  <i>Building intelligent systems, scalable web applications, and products that solve real problems.</i>
+  <i>Building intelligent systems, scalable web applications, and software that solves real-world problems.</i>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SudhanshuPandey1415&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SudhanshuPandey1415?label=Followers&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/SudhanshuPandey1415?label=Stars&style=flat" alt="GitHub Stars" />
+  <a href="https://github.com/SudhanshuPandey1415">
+    <img src="https://img.shields.io/badge/GitHub-SudhanshuPandey1415-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhanshupandey1415/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudhanshupandey141519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/SudhanshuPandey1415?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/SudhanshuPandey1415?label=Stars&style=flat" />
 </p>
 
 </div>
@@ -22,7 +30,7 @@
 
 I'm a **3rd-year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning**, passionate about turning ideas into useful software.
 
-My interests sit at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
 * 🤖 Building and deploying **Machine Learning applications**
 * 🌐 Developing modern **full-stack web applications**
@@ -74,13 +82,13 @@ My interests sit at the intersection of **Artificial Intelligence, Machine Learn
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Plotly` • `NLTK` • `Streamlit`
@@ -88,13 +96,13 @@ My interests sit at the intersection of **Artificial Intelligence, Machine Learn
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express" />
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -218,17 +226,21 @@ Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-**🤖 Artificial Intelligence**
+### 🤖 Artificial Intelligence
+
 Machine Learning • NLP • Recommendation Systems • Predictive Analytics
 
-**🌐 Software Development**
+### 🌐 Software Development
+
 React • Next.js • Node.js • REST APIs • MongoDB
 
-**🧠 Problem Solving**
+### 🧠 Problem Solving
+
 Data Structures • Algorithms • Competitive Programming
 
-**🚀 Building**
-Real-world projects • Experimentation • Continuous Learning
+### 🚀 Building
+
+Real-world Projects • Experimentation • Continuous Learning
 
 </div>
 
@@ -243,7 +255,7 @@ Real-world projects • Experimentation • Continuous Learning
 </a>
 
 <a href="mailto:sudhanshupandey141519@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sudhanshupandey1415/">
