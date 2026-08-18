@@ -18,8 +18,6 @@
   <a href="mailto:sudhanshupandey141519@gmail.com">
     <img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/followers/SudhanshuPandey1415?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/SudhanshuPandey1415?label=Stars&style=flat" />
 </p>
 
 </div>
