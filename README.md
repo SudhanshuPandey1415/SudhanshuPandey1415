@@ -1,11 +1,23 @@
 <div align="center">
 
-# 👋 Hey, I'm Sudhanshu Pandey
+# 👋 Hi, I'm Sudhanshu Pandey
 
-### 🤖 AI/ML Developer • 🌐 Full-Stack Developer • 💡 Problem Solver
+### 🤖 AI/ML Developer · 🌐 Full-Stack Developer · 💻 Software Engineer in Progress
 
 <p>
-  <i>Building intelligent systems, scalable web applications, and software that solves real-world problems.</i>
+  <b>Building intelligent applications and scalable software that solve real-world problems.</b>
+</p>
+
+<p>
+  <a href="https://github.com/SudhanshuPandey1415">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhanshupandey1415/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudhanshupandey141519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -14,58 +26,46 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **3rd-year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning**, passionate about turning ideas into useful software.
+I'm a **3rd-year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning**, interested in building software that combines intelligent systems with modern web technologies.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+My development journey spans **Machine Learning, Full-Stack Development, and Data Structures & Algorithms**.
 
-* 🤖 Building and deploying **Machine Learning applications**
-* 🌐 Developing modern **full-stack web applications**
-* 🧠 Exploring **NLP, recommendation systems & predictive modeling**
-* 💻 Practicing **Data Structures & Algorithms**
-* 🚀 Turning concepts into real-world projects
-* 📚 Continuously learning and improving my engineering skills
+```text
+AI / ML
+  ├── Machine Learning
+  ├── NLP
+  ├── Recommendation Systems
+  └── Predictive Analytics
 
-> **I don't just want to learn technologies — I want to build with them.**
+        +
 
----
+Software Development
+  ├── React / Next.js
+  ├── Node.js / Express
+  ├── MongoDB / MySQL
+  └── REST APIs
 
-## 🚀 What I Build
+        ↓
 
-<table>
-<tr>
-<td width="50%">
+AI-Powered Full-Stack Applications
+```
 
-### 🤖 Artificial Intelligence & ML
+### 🚀 What I Do
 
-* Recommendation Systems
-* Predictive Modeling
-* NLP Applications
-* Classification Systems
-* Data Analysis & Visualization
-* ML-powered Web Applications
+* 🤖 Build **Machine Learning and AI applications**
+* 🌐 Develop **full-stack web applications**
+* 🧠 Explore **NLP, recommendation systems and predictive modeling**
+* 💻 Practice **Data Structures & Algorithms**
+* 🔗 Integrate ML models with modern web applications
+* 📚 Continuously improve my software engineering skills
 
-</td>
-
-<td width="50%">
-
-### 🌐 Full-Stack Development
-
-* React Applications
-* Next.js Applications
-* REST APIs
-* MongoDB Applications
-* Authentication Systems
-* Responsive & Modern UI
-
-</td>
-</tr>
-</table>
+> **I don't just learn technologies — I build with them.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
@@ -77,15 +77,24 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Plotly` • `NLTK` • `Streamlit`
+<p>
+  <code>Pandas</code>
+  <code>NumPy</code>
+  <code>Scikit-learn</code>
+  <code>Matplotlib</code>
+  <code>Seaborn</code>
+  <code>Plotly</code>
+  <code>NLTK</code>
+  <code>Streamlit</code>
+</p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nextjs,nodejs,express" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
@@ -93,35 +102,103 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
-| Project                              | What I Built                                                                    |
-| ------------------------------------ | ------------------------------------------------------------------------------- |
-| 🎬 **Movie Recommender System**      | Content-based recommendation system using cosine similarity and TMDB data       |
-| 📚 **Book Recommender System**       | Collaborative filtering recommendation system with a modern Streamlit interface |
-| 🛡️ **Credit Card Fraud Detection**  | ML-powered fraud detection dashboard with classification and visualization      |
-| 📱 **SMS Spam Classifier**           | End-to-end NLP pipeline using TF-IDF and machine learning                       |
-| 🏏 **IPL Win Probability Predictor** | Interactive ML system for estimating IPL chase win probability                  |
-| 💻 **Laptop Price Predictor**        | Regression-based prediction system for laptop prices                            |
-| 🏠 **House Price Prediction**        | Full-stack ML application using Flask, Scikit-learn and a web frontend          |
-| 👥 **Customer Churn Prediction**     | ML dashboard for predicting customer churn                                      |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
 
-### 🌐 Full-Stack / Web Development
+<tr>
+<td><b>🎬 Movie Recommender System</b></td>
+<td>Content-based movie recommendation system using cosine similarity and TMDB data.</td>
+</tr>
 
-| Project               | Stack                                              |
-| --------------------- | -------------------------------------------------- |
-| ☕ **Get-Me-A-Chai**   | Next.js • MongoDB • NextAuth • Razorpay • Tailwind |
-| 🔗 **Linktree Clone** | Next.js • React • MongoDB • Tailwind               |
-| ⚡ **URL Shortener**   | Next.js • MongoDB • QR Generation                  |
-| ✅ **Todo List**       | React • Vite • Tailwind CSS                        |
-| 🎵 **Spotify Clone**  | JavaScript • HTML • CSS                            |
-| 🎬 **Netflix Clone**  | HTML • CSS • JavaScript                            |
+<tr>
+<td><b>📚 Book Recommender System</b></td>
+<td>Collaborative filtering recommendation system with an interactive Streamlit interface.</td>
+</tr>
+
+<tr>
+<td><b>🛡️ Credit Card Fraud Detection</b></td>
+<td>Machine learning application for fraud classification, analysis and visualization.</td>
+</tr>
+
+<tr>
+<td><b>📱 SMS Spam Classifier</b></td>
+<td>End-to-end NLP pipeline using TF-IDF and machine learning classification.</td>
+</tr>
+
+<tr>
+<td><b>🏏 IPL Win Probability Predictor</b></td>
+<td>Interactive ML application for estimating IPL chase win probability.</td>
+</tr>
+
+<tr>
+<td><b>💻 Laptop Price Predictor</b></td>
+<td>Regression-based machine learning application for laptop price prediction.</td>
+</tr>
+
+<tr>
+<td><b>🏠 House Price Prediction</b></td>
+<td>Full-stack ML application using Flask, Scikit-learn and a web frontend.</td>
+</tr>
+
+<tr>
+<td><b>👥 Customer Churn Prediction</b></td>
+<td>Machine learning dashboard for predicting customer churn.</td>
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Full-Stack & Web Development
+
+<table>
+<tr>
+<th>Project</th>
+<th>Technology</th>
+</tr>
+
+<tr>
+<td><b>☕ Get-Me-A-Chai</b></td>
+<td>Next.js · MongoDB · NextAuth · Razorpay · Tailwind</td>
+</tr>
+
+<tr>
+<td><b>🔗 Linktree Clone</b></td>
+<td>Next.js · React · MongoDB · Tailwind</td>
+</tr>
+
+<tr>
+<td><b>⚡ URL Shortener</b></td>
+<td>Next.js · MongoDB · QR Generation</td>
+</tr>
+
+<tr>
+<td><b>✅ Todo List</b></td>
+<td>React · Vite · Tailwind CSS</td>
+</tr>
+
+<tr>
+<td><b>🎵 Spotify Clone</b></td>
+<td>JavaScript · HTML · CSS</td>
+</tr>
+
+<tr>
+<td><b>🎬 Netflix Clone</b></td>
+<td>HTML · CSS · JavaScript</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -137,115 +214,123 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Focused On
 
-```text
-Machine Learning
-      ↓
-Model Building & Evaluation
-      ↓
-ML Deployment
-      ↓
-AI-powered Applications
-      ↓
-Full-Stack Integration
-```
+<table>
+<tr>
+<td width="50%">
 
-Currently focusing on:
+### 🤖 AI / ML
 
-* 📈 Improving Machine Learning fundamentals
-* 🤖 Building better AI/ML projects
-* 🌐 Advanced Full-Stack Development
-* 🧩 Data Structures & Algorithms
-* ☁️ Learning deployment and production practices
+* Machine Learning fundamentals
+* Model evaluation & optimization
+* NLP applications
+* Recommendation systems
+* ML deployment
+* AI-powered applications
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Engineering
+
+* Advanced Full-Stack Development
+* Data Structures & Algorithms
+* REST API development
+* Database design
+* Authentication
+* Production & deployment practices
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 * [ ] Build production-quality AI/ML applications
-* [ ] Strengthen DSA & problem-solving skills
+* [ ] Strengthen DSA and problem-solving skills
 * [ ] Build advanced full-stack projects
-* [ ] Learn more about AI engineering & deployment
+* [ ] Learn modern AI engineering & deployment
 * [ ] Contribute to open-source projects
-* [ ] Secure a strong software/AI internship
-* [ ] Build projects that people actually use
+* [ ] Secure a strong software / AI internship
+* [ ] Build software that people actually use
 
 ---
 
-## 📈 My Development Journey
+# 🧭 My Development Journey
 
 ```text
-Programming
-     │
-     ├── C / C++ / Java
-     │
-     ▼
-Web Development
-     │
-     ├── HTML / CSS / JavaScript
-     ├── React
-     └── Next.js
-     │
-     ▼
-Full-Stack Development
-     │
-     ├── Node.js / Express
-     ├── MongoDB / MySQL
-     └── APIs & Authentication
-     │
-     ▼
-Artificial Intelligence & Machine Learning
-     │
-     ├── Data Analysis
-     ├── NLP
-     ├── Predictive Modeling
-     └── Recommendation Systems
-     │
-     ▼
-🚀 AI-Powered Full-Stack Applications
+                 PROGRAMMING
+                      │
+             C · C++ · Java · Python
+                      │
+                      ▼
+              WEB DEVELOPMENT
+                      │
+       HTML · CSS · JavaScript · React
+                      │
+                      ▼
+             FULL-STACK DEVELOPMENT
+                      │
+      Next.js · Node.js · Express · MongoDB
+                      │
+                      ▼
+          ARTIFICIAL INTELLIGENCE
+                      │
+      Data Analysis · ML · NLP · Recommenders
+                      │
+                      ▼
+             AI-POWERED SOFTWARE
+                      │
+                      🚀
 ```
 
 ---
 
-## 💡 Featured Areas
+# 💡 Areas I'm Interested In
 
 <div align="center">
 
-### 🤖 Artificial Intelligence
+| 🤖 Artificial Intelligence | 🌐 Software Development |
+| :------------------------: | :---------------------: |
+|      Machine Learning      |     React / Next.js     |
+|             NLP            |    Node.js / Express    |
+|   Recommendation Systems   |        REST APIs        |
+|    Predictive Analytics    |     MongoDB / MySQL     |
+|       ML Applications      |      Authentication     |
 
-Machine Learning • NLP • Recommendation Systems • Predictive Analytics
-
-### 🌐 Software Development
-
-React • Next.js • Node.js • REST APIs • MongoDB
-
-### 🧠 Problem Solving
-
-Data Structures • Algorithms • Competitive Programming
-
-### 🚀 Building
-
-Real-world Projects • Experimentation • Continuous Learning
+|    🧠 Problem Solving   |         🚀 Building        |
+| :---------------------: | :------------------------: |
+|     Data Structures     |     Real-world Projects    |
+|        Algorithms       |       AI Applications      |
+| Competitive Programming |     Full-Stack Products    |
+|     Problem Solving     | Continuous Experimentation |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/SudhanshuPandey1415">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <b>Interested in AI, software development, or building something together?</b>
+</p>
 
 <a href="mailto:sudhanshupandey141519@gmail.com">
-<img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sudhanshupandey1415/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/SudhanshuPandey1415">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -254,8 +339,10 @@ Real-world Projects • Experimentation • Continuous Learning
 
 <div align="center">
 
-### ⚡ *"Build. Learn. Break. Improve. Repeat."*
+### ⚡ Build. Learn. Break. Improve. Repeat.
 
-⭐ If you find something useful here, consider giving the repository a star!
+<br>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
