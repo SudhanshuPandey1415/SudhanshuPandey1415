@@ -8,18 +8,6 @@
   <i>Building intelligent systems, scalable web applications, and software that solves real-world problems.</i>
 </p>
 
-<p>
-  <a href="https://github.com/SudhanshuPandey1415">
-    <img src="https://img.shields.io/badge/GitHub-SudhanshuPandey1415-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudhanshupandey1415/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sudhanshu%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sudhanshupandey141519@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sudhanshupandey141519%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
